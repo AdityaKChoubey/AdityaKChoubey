@@ -5,6 +5,16 @@
 - 📫 Email : Choubey.aditya1234@gmail.com
 
 
+👨‍🔬 Student Physicist | 🏴 Scottish Church College
+
+🌌 Fascinated by the complexities of the universe and the beauty of non-linear dynamics.
+
+🔭 Exploring the mysteries of nonlinear systems and computational astrophysics.
+
+💻 Passionate about Computational Fluid Dynamics (CFD) and its applications in understanding natural phenomena.
+
+📚 Always learning, always experimenting. Let's unravel the secrets of the cosmos together!
+
 <!---
 AdityaKChoubey/AdityaKChoubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
