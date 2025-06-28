@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AdityaKChoubey
-- 👀 I’m interested in Computational Physics
-- 🌱 I’m currently learning Theoretical Physics
-- 💞️ I’m looking to collaborate on CFD and Computational Astrophysics
+-  I’m looking to collaborate on Computational Statistical Physics and Non Linear Dynamics
 - 📫 Email : Choubey.aditya1234@gmail.com
 
 
