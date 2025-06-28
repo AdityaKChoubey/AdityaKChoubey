@@ -5,7 +5,7 @@
 - 📫 Email : Choubey.aditya1234@gmail.com
 
 
-👨‍🔬 Student Physicist | 🏴 Scottish Church College
+👨‍🔬 Student Physicist | 🏴IPhD @ IISER Pune | BSc(Hons) @ Scottish Church College
 
 🌌 Fascinated by the complexities of the universe and the beauty of non-linear dynamics.
 
