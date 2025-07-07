@@ -9,7 +9,7 @@
 
 🔭 Exploring the mysteries of nonlinear systems and computational astrophysics.
 
-💻 Passionate about Computational Fluid Dynamics (CFD) and its applications in understanding natural phenomena.
+💻 Passionate about Condensed Matter Physics 
 
 📚 Always learning, always experimenting. Let's unravel the secrets of the cosmos together!
 
